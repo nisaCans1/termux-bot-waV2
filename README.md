@@ -1,4 +1,4 @@
-### I'm FDL Gift Me Stars 🌟 
+### I'm ZAKI:) Gift Me Stars 🌟 
 
 ## Tools
 
@@ -17,8 +17,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/FDLBOT/nyolong
-> cd nyolong
+> git clone https://github.com/zakiahsanS/termux-bot-waV2
+> cd termux-bot-waV2
 > npm cache clear
 > bash install.sh
 > npm audit fix
@@ -216,10 +216,10 @@ Follow The Steps Below!
 
 * [Adiwajshing Baileys](https://github.com/adiwajshing/baileys)
 * Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
-* [NURUTOMO](https://github.com/nurutomo)
-* [NazwaS](https://github.com/nazwaS)
+* [ZAKIGANS](https://github.com/ZakiGans)
+* [SANG LORD](https://github.com/SangLord)
 * [FXC7](https://github.com/Fxc7)
-* [FDL BOT OFFICIAL]
+* [LORD TEAM OFFICIAL]
 
 
 * [Req Fitur](https://wa.me/628990542731)

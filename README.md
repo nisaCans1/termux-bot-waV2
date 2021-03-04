@@ -24,7 +24,17 @@ Follow The Steps Below!
 > npm audit fix
 > npm start / node index.js
 ```
+# SPECIAL BIG THANKS
 
+* FARHAN
+
+* ANKER
+
+* ZAKI
+
+* TEAM LORD BOT
+
+* TEAM DARK BOT
 
 
 ## Features

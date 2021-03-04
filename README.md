@@ -222,7 +222,7 @@ Follow The Steps Below!
 * [LORD TEAM OFFICIAL]
 
 
-* [Req Fitur](https://wa.me/628990542731)
+* [Req Fitur](https://wa.me/6283144780782)
 
 
 ---

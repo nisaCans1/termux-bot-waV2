@@ -222,14 +222,13 @@ Follow The Steps Below!
 * |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
 
 
-## Special Thanks
+## SOSMED
 
-* [Adiwajshing Baileys](https://github.com/adiwajshing/baileys)
-* Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
-* [ZAKIGANS](https://github.com/ZakiGans)
-* [SANG LORD](https://github.com/SangLord)
-* [FXC7](https://github.com/Fxc7)
-* [LORD TEAM OFFICIAL]
+* [WA](https://wa.me/6283144780782)
+
+* [IG](https://instagramdelete.com/sanglord_)
+
+* [YT](https://youtube.com/c/MikazuMZ)
 
 
 * [Req Fitur](https://wa.me/6283144780782)
